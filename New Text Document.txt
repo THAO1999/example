@@ -1,2 +1,6 @@
 thaooahrao
+<<<<<<< HEAD
 conf
+=======
+tạo conflict
+>>>>>>> 9b5fedaace4c8dfcfc8982aabe5e533ade3ef224
